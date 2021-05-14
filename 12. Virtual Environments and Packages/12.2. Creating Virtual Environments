@@ -1,0 +1,5 @@
+python3 -m venv tutorial-env
+# in my laptop i change somehting : 
+python -m venv tutorial-env
+
+Then : tutorial-env\Scripts\activate.bat
